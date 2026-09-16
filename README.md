@@ -1,16 +1,25 @@
-## Hi there 👋
+## A PhD Student researching fun in digital games
 
-<!--
-**DiegoTondorf/diegotondorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+diego-fellipe.tondorf.1@ens.etsmtl.ca 
+https://www.linkedin.com/in/diego-tondorf/
 
-Here are some ideas to get you started:
+https://scholar.google.com/citations?user=4eb1SWEAAAAJ&hl
+https://orcid.org/0000-0003-3465-3299
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Main Research Repo
+https://github.com/DiegoTondorf/digital-game-fun-research
+
+2026 work
+
+Systematic Mapping
+Diego Tondorf, Fabio Petrillo, and Alexandra Nemery. A systematic mapping of elements of fun in digital games. In Proceedings of the IEEE Conference on Games (CoG 2026), 2026. Accepted paper.
+Repository - https://github.com/DiegoTondorf/digital-game-fun-research/tree/main/systematic-mapping
+Replication Package - [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FJYF68-blue)](https://doi.org/10.17605/OSF.IO/JYF68)
+https://osf.io/jyf68/overview
+
+FUN Reviews Analysis
+Diego Tondorf, Fabio Petrillo, and Alexandra Nemery. Fun: a flow, utility and nostalgia temporal approach applied in fun analysis. In Proceedings of the IFIP International Conference on Entertainment Computing (ICEC 2026), 2026. Accepted paper.
+Repository - https://github.com/DiegoTondorf/digital-game-fun-research/tree/main/fun-reviews-analysis
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F8G2P6-blue)](https://doi.org/10.17605/OSF.IO/8G2P6)
+https://osf.io/8g2p6/overview
+
