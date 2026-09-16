@@ -1,6 +1,8 @@
 # A PhD Student Researching Fun in Digital Games
 
-Patience, little Padawan. This README is under construction.
+Thank you for visiting! Unfortunately, the final version of this page is in another castle.
+
+🚧 Page under construction.
 
 📧 diego-fellipe.tondorf.1@ens.etsmtl.ca
 
